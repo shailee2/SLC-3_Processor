@@ -41,4 +41,9 @@ This project provides a hardware description of the SLC-3 processor, a simplifie
 4. Run synthesis and implementation.
 5. Generate the bitstream for your target FPGA.
 
+## Author
+Shailee Patel <br>
+Email: shaileepatel05@gmail.com <br>
+LinkedIn: linkedin.com/in/shailee-patel-04481b285<br>
+GitHub: github.com/shailee2
 
